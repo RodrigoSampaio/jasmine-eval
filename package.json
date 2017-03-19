@@ -1,0 +1,24 @@
+{
+  "name": "jasmine-eval",
+  "version": "1.0.0",
+  "description": "Elaluation of the jasmine test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSampaio/jasmine-eval.git"
+  },
+  "keywords": [
+    "jasmine",
+    "test",
+    "evaluation"
+  ],
+  "author": "Rodrigo Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSampaio/jasmine-eval/issues"
+  },
+  "homepage": "https://github.com/RodrigoSampaio/jasmine-eval#readme"
+}
