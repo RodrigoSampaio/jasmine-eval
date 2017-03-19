@@ -4,7 +4,8 @@
   "description": "Elaluation of the jasmine test framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony-async-await index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/RodrigoSampaio/jasmine-eval/issues"
   },
-  "homepage": "https://github.com/RodrigoSampaio/jasmine-eval#readme"
+  "homepage": "https://github.com/RodrigoSampaio/jasmine-eval#readme",
+  "engines": {
+    "node": "7.2.1"
+  },
+  "devDependencies": {
+    "standard": "9.0.2"
+  }
 }
